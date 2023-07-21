@@ -35,7 +35,7 @@ This project is for educational purposes only. Any illegal or unethical use of t
 
 ### Setup
 
-1. [Download the source code](https://github.com/lizardx0z/Fake-QR-Logger/archive/refs/heads/main.zip)
+1. [Download the source code](https://github.com/lizard0x/Fake-QR-Logger/archive/refs/heads/main.zip)
 2. Extract the zip
 3. Run `setup.bat`
 
