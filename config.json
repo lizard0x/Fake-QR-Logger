@@ -1,0 +1,5 @@
+{
+  "botToken": "BOTTOKEN-HERE",
+  "webhookUrl": "WEBHOOKURL-HERE",
+  "prefix": "!"
+}
