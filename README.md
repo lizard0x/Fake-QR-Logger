@@ -51,7 +51,7 @@ Before running, `config.json` (found in the main folder) should be configured as
 }
 ```
 **Start off by getting the bot token:**
-1. Head to the [Discord Application Page)[https://discord.com/developers/applications]
+1. Head to the [Discord Application Page](https://discord.com/developers/applications)
 2. Press on "New application", and give it the name you like. The name of the bot can be changed later.
 3. On your left, click on "Bot"
 4. Here, change the name of the bot and the icon as how you like it.
